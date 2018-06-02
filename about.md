@@ -5,11 +5,8 @@ permalink: /about/
 ---
 
 
-I am Nigel Munro
-Graduate May Victoria University of Wellington with Bach of Comp Sci
-Life long interest in computers
-I enjoy
-programming, Making games, Hacking, 3D modeling, reading up on new technologies
+Welcome to the personal website of Nigel Munro a recent graduate
+of the Victoria University of Wellington with Bachelor of Science in Computer Science. I have always expressed an interest in computers and enjoy programming, making games, hacking, 3D modeling and reading up on new technologies
 
 
 
