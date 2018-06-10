@@ -252,3 +252,18 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
+
+
+.class_showcase {
+  width: 200px; 
+  float: left; 
+  margin-left: 40px;
+
+  h3{
+    text-align: center;
+  }
+
+  video {
+    width: 200px;
+  }
+}
