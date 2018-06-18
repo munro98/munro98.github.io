@@ -6,7 +6,7 @@ layout: page
 ---
 
 
-Hi, I'm Nigel Munro a recent graduate of Victoria University in Wellington with a Bachelor of Science in Computer Science. I have always expressed an interest in computers and enjoy programming, making games, hacking, 3D modeling and reading up on new technologies.
+Nigel Munro, a recent graduate of Victoria University of Wellington with a Bachelor of Science in Computer Science. I've always expressed an interest in computers and enjoy programming, making games, hacking, 3D modeling and reading up on new tech.
 
 <br>
 <center>
