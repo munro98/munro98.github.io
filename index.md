@@ -23,7 +23,7 @@ Showcase
 <h3>Reddit on Flutter</h3>
 
 <a href="/projects/#reddit_on_flutter">
-<video autoplay loop>
+<video muted autoplay loop>
   <source src="/videos/redditonflutter.mp4" type="video/mp4">
   *put a image here
   Your browser does not support HTML5 video.
@@ -38,7 +38,7 @@ Showcase
 <div class="class_showcase">
 <h3>9 Days</h3>
 <a href="/projects/#9days">
-<video autoplay loop>
+<video muted autoplay loop>
   <source src="/videos/9days.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
@@ -46,14 +46,14 @@ Showcase
 <center>
 <a href="https://github.com/munro98/9Days">Code</a>
 |
-<a href="https://munro98.github.io/9Days/">Demo</a>
+<a href="https://munro98.github.io/9Days/">Play!</a>
 </center>
 </div>
 
 <div class="class_showcase">
 <h3>Worldscape</h3>
 <a href="/projects/#landscapeworld">
-<video autoplay loop>
+<video muted autoplay loop>
   <source src="videos/landscapeworld.mp4"  type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
@@ -66,7 +66,7 @@ Showcase
 <div class="class_showcase">
 <h3>Infinite Collapse</h3>
 <a href="/projects/#infinitecollapse">
-<video autoplay loop>
+<video muted autoplay loop>
   <source src="videos/infinitecollapse.mp4"   type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
@@ -79,7 +79,7 @@ Showcase
 <div class="class_showcase">
 <h3>Sector Renderer</h3>
 <a href="/jsdemos/#sectorrenderer">
-<video autoplay loop>
+<video muted autoplay loop>
   <source src="videos/sectorrender.mp4"   type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
