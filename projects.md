@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## University Projects
 
-<a name="landscapeworld"></a>
+<a name="landscape"></a>
 # Landscape World
 ![landscape scene](https://raw.githubusercontent.com/munro98/LandscapeWorld/master/screenshots/screenshot.jpg)
 View source on [Github](https://github.com/munro98/LandscapeWorld)
@@ -70,16 +70,3 @@ Description: An app for downoading, archiving/ tagging images from various art w
 Technologies: HTML5, Electron
 
 
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
