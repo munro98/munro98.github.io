@@ -47,7 +47,7 @@ Technologies: OpenGL, C++ and SDL2
 
 <a name="9days"></a>
 # 9Days
-![Screenshot](http://i.imgur.com/sGc1QOb.png)
+![screenshot](https://raw.githubusercontent.com/munro98/9days/master/screenshot.jpg)
 [PLAY now!](https://munro98.github.io/9Days/) or View source on [Github](https://github.com/munro98/9Days)
 
 Description: Top Down Wave Zombie Shooter made in HTML5 canvas from scratch.
@@ -55,18 +55,16 @@ Technologies: HTML5, Javascript and Canvas
 
 <a name="minigolf"></a>
 # Minigolf
+![gameplay screenshot](https://raw.githubusercontent.com/munro98/munro98.github.io/master/images/golf.jpg)
 Description: 3D Multiplayer Minigolf
 
-Technologies: 
-* Unity3D
-* C#
-* Networking
+Technologies: Unity3D, C#, Blender3D
 
-This project I originally started in 2013 as a game inspired by a Garrys mod mini-game. It was meant to be an exersise in learning about game development but my interest in it quickly burnt out. I then worked on it recently focusing on multiplayer and creating interesting assets using the Blender 3D software.
+This project I originally started in 2013 as a game inspired by a Garrys mod mini-game. It was meant to be an exersise in learning about game development but I lost interest in it. I took the project back up focusing on multiplayer and creating interesting assets using Blender3D software.
 
 <a name="image_tagger"></a>
 # Image Tagger
-Description: An app for downoading, archiving/ tagging images from various art websites.
+Description: An app for downoading, archiving/ tagging images from various art websites comming soon.
 Technologies: HTML5, Electron
 
 

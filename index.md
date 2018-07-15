@@ -77,6 +77,19 @@ Showcase
 </div>
 
 <div class="class_showcase">
+<h3>Minigolf</h3>
+<a href="/projects/#minigolf">
+<video muted autoplay loop>
+  <source src="videos/golf.mp4"   type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+</a>
+<center>
+<a href="/projects/#minigolf">More Info</a>
+</center>
+</div>
+
+<div class="class_showcase">
 <h3>Sector Renderer</h3>
 <a href="/jsdemos/#sectorrenderer">
 <video muted autoplay loop>
