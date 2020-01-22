@@ -89,20 +89,5 @@ Creations
 </center>
 </div>
 
-<div class="class_showcase">
-<h3>Sector Renderer</h3>
-<a href="/jsdemos/#sectorrenderer">
-<video muted autoplay loop>
-  <source src="videos/sectorrender.mp4"   type="video/mp4">
-  Your browser does not support HTML5 video.
-</video>
-</a>
-<center>
-<a href="https://github.com/munro98/JSDemos">Code</a>
-|
-<a href="https://munro98.github.io/JSDemos/SectorRenderer.html">Demo</a>
-</center>
-</div>
-
 
 </div>
