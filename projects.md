@@ -56,7 +56,7 @@ Technologies: Unity3D, C#
 
 Software: Blender3D
 
-This project I originally started in 2013 as a game inspired by a Garrys mod mini-game. It was meant to be an exersise in learning about game development but I lost interest in it. I took the project back up focusing on multiplayer and creating interesting assets using Blender3D software.
+This project was an exercise in learning about more game development in which I developed the gameplay, physics of how the golf balls interacted and also 3D modelling of the environment made for a full-on experience in game design. The challenge of syncing game state over the network while also pushing my 3D modelling skills made for a very interesting and fun project.
 
 <a name="simplecraft"></a>
 # SimpleCraft
