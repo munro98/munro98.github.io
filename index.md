@@ -6,7 +6,7 @@ layout: page
 ---
 
 
-Hi, I'm Nigel. I'm interested in computers, programming, making games, hacking, 3D modeling and printing and reading up on new tech.
+Hi, I'm Nigel. I'm interested in computers, programming, making games, hacking, 3D modeling, 3D printing and reading up on new tech.
 
 <br>
 <center>
